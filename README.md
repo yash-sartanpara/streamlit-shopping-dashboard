@@ -50,6 +50,11 @@ Users can select various filters from the sidebar and click the "Show Analysis" 
 
 - **`cst-analysis.ipynb`**:  Jupyter Notebook containing the Exploratory Data Analysis (EDA).
 
+
+## Demo
+
+https://streamlit-shopping-dashboard.onrender.com/
+
 ## Authors
 
 - **Yash Sartanpara**
