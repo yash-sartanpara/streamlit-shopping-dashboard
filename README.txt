@@ -1,19 +1,19 @@
-# Shopping Trends Analysis
+**Shopping Trends Analysis** 
 
 ## Overview
 
 This project provides an interactive web application to analyze shopping trends using Streamlit. The application allows users to filter and visualize various aspects of shopping data, including customer segmentation, purchase amounts, discount applications, shipping types, and review ratings.
 
-## Prerequisites
+**Prerequisites**
 
 - Python
 - Pandas
 - Plotly
 - Streamlit
 
-## Project Description
+**Project Description**
 
-### Exploratory Data Analysis (EDA)
+**Exploratory Data Analysis (EDA)**
 
 The Exploratory Data Analysis (EDA) phase focuses on understanding the dataset by uncovering patterns, trends, and anomalies. The following analyses were performed:
 
@@ -28,7 +28,7 @@ The Exploratory Data Analysis (EDA) phase focuses on understanding the dataset b
 9. **Top Categories by Season**: Identified top-performing categories across different seasons.
 10. **Average Purchase Amount by Review Rating**: Compared average purchase amounts across different review ratings.
 
-### Streamlit Application
+**Streamlit Application**
 
 The Streamlit application allows users to interactively explore the dataset through various filters and visualizations. Features of the app include:
 
@@ -43,7 +43,7 @@ The Streamlit application allows users to interactively explore the dataset thro
 
 Users can select various filters from the sidebar and click the "Show Analysis" button to update visualizations and view insights.
 
-## Files
+**Files
 
 - **`app.py`**: The main Streamlit application script. This file contains the code for the Streamlit app, including the user interface and visualizations. It handles data filtering, analysis, and the display of interactive charts based on user input.
 
