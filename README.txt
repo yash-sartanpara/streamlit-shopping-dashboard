@@ -11,9 +11,9 @@ This project provides an interactive web application to analyze shopping trends 
 - Plotly
 - Streamlit
 
-##Project Description
+## Project Description
 
-###Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 The Exploratory Data Analysis (EDA) phase focuses on understanding the dataset by uncovering patterns, trends, and anomalies. The following analyses were performed:
 
@@ -50,4 +50,3 @@ Users can select various filters from the sidebar and click the "Show Analysis" 
 - **`shopping_trends_updated.csv`**: The dataset used for analysis. This CSV file contains the shopping trends data that the application analyzes and visualizes. It includes information on customer demographics, purchase amounts, categories, and other relevant attributes.
 
 - **`requirements.txt`**: Lists the required Python packages for the project. This file includes all dependencies needed to run the application. It ensures that all necessary libraries are installed for the application to function correctly.
-
